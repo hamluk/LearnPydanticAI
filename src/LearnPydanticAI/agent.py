@@ -51,8 +51,7 @@ class TaskAgent():
            
         return agent
 
-    def run(self, query: str) -> str:
-        deps = TaskDependency(username="sudo", project="LearnPydanticAI")
+    def run(self, query: str, deps) -> str:
         result = self.agent.run_sync(query, deps=deps)
         # Bonus for inspection function calls
         # for message in result.all_messages():
