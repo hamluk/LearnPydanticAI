@@ -3,7 +3,6 @@ from LearnPydanticAI.task_agent import TaskAgent
 from LearnPydanticAI.dependecies import TaskDependency
 
 import asyncio
-import time
 
 async def main():
     load_dotenv()  # take environment variables from .env.
