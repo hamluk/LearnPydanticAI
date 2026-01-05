@@ -9,8 +9,10 @@
 | Part | Title                                | Blog Post                                                                                                   | Code                                                                    |
 | ---- | ------------------------------------ | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | 1️⃣   | **Getting Started with Pydantic AI** | [Read on dev.to](https://dev.to/hamluk/getting-started-with-pydanticai-basics-for-ai-agents-in-python-4jlo) | [Branch: part-1](https://github.com/hamluk/LearnPydanticAI/tree/part-1) |
-| 2️⃣   | _Coming soon…_                       | –                                                                                                           | –                                                                       |
-| 3️⃣   | _Coming soon…_                       | –                                                                                                           | –                                                                       |
+| 2️⃣   | **Extending Pydantic AI Agents with Dependencies** | [Read on dev.to](https://dev.to/hamluk/extending-pydantic-ai-agents-with-dependencies-adding-context-to-your-ai-agents-3f8o) | [Branch: part-2](https://github.com/hamluk/LearnPydanticAI/tree/part-2) |
+| 3️⃣   | **Extending Pydantic AI Agents with Function Tools** | [Read on dev.to](https://dev.to/hamluk/extending-pydantic-ai-agents-with-function-tools-reading-and-updating-project-data-in-python-33d1) | [Branch: part-3](https://github.com/hamluk/LearnPydanticAI/tree/part-3) |
+| 4️⃣   | **Extending Pydantic AI Agents with Chat History** | [Read on dev.to](https://dev.to/hamluk/extending-pydantic-ai-agents-with-chat-history-messages-and-chat-history-in-pydantic-ai-d4f) | [Branch: part-4](https://github.com/hamluk/LearnPydanticAI/tree/part-4) |
+| 5️⃣   | **Advanced Pydantic AI Agents** | [Read on dev.to](https://dev.to/hamluk/advanced-pydantic-ai-agents-building-a-multi-agent-system-in-pydantic-ai-1hok) | [Branch: part-5](https://github.com/hamluk/LearnPydanticAI/tree/part-5) |
 
 ## ⚙️ Setup and Usage
 
